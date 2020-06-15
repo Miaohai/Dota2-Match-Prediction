@@ -12,7 +12,7 @@ We used the dataset provided on Kaggle by the user Devin Anzelmo which contained
 Kaggle:  URL:https://www.kaggle.com/devinanzelmo/dota-2-matches
  
 # File Structures:
-        1. All_CSV_Files 
+        1. All_CSV_Files (**download player.csv from kaggle Dataset due to large files**)
                 - Contains all the data files
         2. EDA - Exploratory Data Analysis 
                 - Most popular Dota2 Hero, Hero Map, Statistics about position in Dota2)
@@ -32,6 +32,7 @@ Kaggle:  URL:https://www.kaggle.com/devinanzelmo/dota-2-matches
 # Prerequisites
 What things you need to install the software
 
+* Download player.csv from Kaggle and put under all_csv_files
 * Download Anaconda
 * Install packages
   * jupyter notebook
