@@ -1,0 +1,113 @@
+name,hero_id,localized_name
+npc_dota_hero_antimage,1,Anti-Mage
+npc_dota_hero_axe,2,Axe
+npc_dota_hero_bane,3,Bane
+npc_dota_hero_bloodseeker,4,Bloodseeker
+npc_dota_hero_crystal_maiden,5,Crystal Maiden
+npc_dota_hero_drow_ranger,6,Drow Ranger
+npc_dota_hero_earthshaker,7,Earthshaker
+npc_dota_hero_juggernaut,8,Juggernaut
+npc_dota_hero_mirana,9,Mirana
+npc_dota_hero_morphling,10,Morphling
+npc_dota_hero_nevermore,11,Shadow Fiend
+npc_dota_hero_phantom_lancer,12,Phantom Lancer
+npc_dota_hero_puck,13,Puck
+npc_dota_hero_pudge,14,Pudge
+npc_dota_hero_razor,15,Razor
+npc_dota_hero_sand_king,16,Sand King
+npc_dota_hero_storm_spirit,17,Storm Spirit
+npc_dota_hero_sven,18,Sven
+npc_dota_hero_tiny,19,Tiny
+npc_dota_hero_vengefulspirit,20,Vengeful Spirit
+npc_dota_hero_windrunner,21,Windranger
+npc_dota_hero_zuus,22,Zeus
+npc_dota_hero_kunkka,23,Kunkka
+npc_dota_hero_lina,25,Lina
+npc_dota_hero_lion,26,Lion
+npc_dota_hero_shadow_shaman,27,Shadow Shaman
+npc_dota_hero_slardar,28,Slardar
+npc_dota_hero_tidehunter,29,Tidehunter
+npc_dota_hero_witch_doctor,30,Witch Doctor
+npc_dota_hero_lich,31,Lich
+npc_dota_hero_riki,32,Riki
+npc_dota_hero_enigma,33,Enigma
+npc_dota_hero_tinker,34,Tinker
+npc_dota_hero_sniper,35,Sniper
+npc_dota_hero_necrolyte,36,Necrophos
+npc_dota_hero_warlock,37,Warlock
+npc_dota_hero_beastmaster,38,Beastmaster
+npc_dota_hero_queenofpain,39,Queen of Pain
+npc_dota_hero_venomancer,40,Venomancer
+npc_dota_hero_faceless_void,41,Faceless Void
+npc_dota_hero_skeleton_king,42,Wraith King
+npc_dota_hero_death_prophet,43,Death Prophet
+npc_dota_hero_phantom_assassin,44,Phantom Assassin
+npc_dota_hero_pugna,45,Pugna
+npc_dota_hero_templar_assassin,46,Templar Assassin
+npc_dota_hero_viper,47,Viper
+npc_dota_hero_luna,48,Luna
+npc_dota_hero_dragon_knight,49,Dragon Knight
+npc_dota_hero_dazzle,50,Dazzle
+npc_dota_hero_rattletrap,51,Clockwerk
+npc_dota_hero_leshrac,52,Leshrac
+npc_dota_hero_furion,53,Nature's Prophet
+npc_dota_hero_life_stealer,54,Lifestealer
+npc_dota_hero_dark_seer,55,Dark Seer
+npc_dota_hero_clinkz,56,Clinkz
+npc_dota_hero_omniknight,57,Omniknight
+npc_dota_hero_enchantress,58,Enchantress
+npc_dota_hero_huskar,59,Huskar
+npc_dota_hero_night_stalker,60,Night Stalker
+npc_dota_hero_broodmother,61,Broodmother
+npc_dota_hero_bounty_hunter,62,Bounty Hunter
+npc_dota_hero_weaver,63,Weaver
+npc_dota_hero_jakiro,64,Jakiro
+npc_dota_hero_batrider,65,Batrider
+npc_dota_hero_chen,66,Chen
+npc_dota_hero_spectre,67,Spectre
+npc_dota_hero_ancient_apparition,68,Ancient Apparition
+npc_dota_hero_doom_bringer,69,Doom
+npc_dota_hero_ursa,70,Ursa
+npc_dota_hero_spirit_breaker,71,Spirit Breaker
+npc_dota_hero_gyrocopter,72,Gyrocopter
+npc_dota_hero_alchemist,73,Alchemist
+npc_dota_hero_invoker,74,Invoker
+npc_dota_hero_silencer,75,Silencer
+npc_dota_hero_obsidian_destroyer,76,Outworld Devourer
+npc_dota_hero_lycan,77,Lycan
+npc_dota_hero_brewmaster,78,Brewmaster
+npc_dota_hero_shadow_demon,79,Shadow Demon
+npc_dota_hero_lone_druid,80,Lone Druid
+npc_dota_hero_chaos_knight,81,Chaos Knight
+npc_dota_hero_meepo,82,Meepo
+npc_dota_hero_treant,83,Treant Protector
+npc_dota_hero_ogre_magi,84,Ogre Magi
+npc_dota_hero_undying,85,Undying
+npc_dota_hero_rubick,86,Rubick
+npc_dota_hero_disruptor,87,Disruptor
+npc_dota_hero_nyx_assassin,88,Nyx Assassin
+npc_dota_hero_naga_siren,89,Naga Siren
+npc_dota_hero_keeper_of_the_light,90,Keeper of the Light
+npc_dota_hero_wisp,91,Io
+npc_dota_hero_visage,92,Visage
+npc_dota_hero_slark,93,Slark
+npc_dota_hero_medusa,94,Medusa
+npc_dota_hero_troll_warlord,95,Troll Warlord
+npc_dota_hero_centaur,96,Centaur Warrunner
+npc_dota_hero_magnataur,97,Magnus
+npc_dota_hero_shredder,98,Timbersaw
+npc_dota_hero_bristleback,99,Bristleback
+npc_dota_hero_tusk,100,Tusk
+npc_dota_hero_skywrath_mage,101,Skywrath Mage
+npc_dota_hero_abaddon,102,Abaddon
+npc_dota_hero_elder_titan,103,Elder Titan
+npc_dota_hero_legion_commander,104,Legion Commander
+npc_dota_hero_techies,105,Techies
+npc_dota_hero_ember_spirit,106,Ember Spirit
+npc_dota_hero_earth_spirit,107,Earth Spirit
+npc_dota_hero_abyssal_underlord,108,Underlord
+npc_dota_hero_terrorblade,109,Terrorblade
+npc_dota_hero_phoenix,110,Phoenix
+npc_dota_hero_oracle,111,Oracle
+npc_dota_hero_winter_wyvern,112,Winter Wyvern
+npc_dota_hero_arc_warden,113,Arc Warden
